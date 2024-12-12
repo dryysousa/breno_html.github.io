@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOIANA</title>
+</head>
+<body>
+    <header>
+        <h1>Goiana</h1>
+    </header>
+
+    <main>
+        <section>
+            <img src="./imagens/GOIANA-1-300x225.png">
+            <h3>A cidade de Goiana, localizada no litoral de Pernambuco, é conhecida por sua rica história e cultura. Com um centro histórico tombado como Patrimônio Nacional, a cidade preserva casarões coloniais e igrejas que contam a história de um passado rico e vibrante.</h3>
+        </section>
+
+         <h2>O que você pode encontrar em Goiana:</h2>
+         <p>História e Cultura: Explore o centro histórico da cidade, com suas construções coloniais e museus que contam a história da região.
+            Natureza: Desfrute de belas praias, rios e manguezais, perfeitos para quem busca contato com a natureza.
+            Gastronomia: Saboreie a deliciosa culinária local, com pratos típicos da região e ingredientes frescos.
+            Festas e Eventos: Participe das diversas festas e eventos que acontecem ao longo do ano, como o Carnaval e as festas juninas.
+            Indústria e Comércio: A cidade possui um forte setor industrial e comercial, com diversas empresas de grande porte instaladas na região.</p>
+
+        <h2>Por que visitar Goiana?</h2>
+        <p>Tranquilidade e qualidade de vida: Fuja da agitação das grandes cidades e encontre a paz em Goiana.
+            Pessoas acolhedoras: Os goianenses são conhecidos por sua hospitalidade e simpatia.
+            Diversidade de atrativos: A cidade oferece opções para todos os gostos, desde praias e trilhas até museus e centros comerciais.</p>
+    </main>
+
+
+    <footer>Desenvolvido por Breno Soares de Galliza Neto - Estudante de Redes de Computadores.</footer>
+
+</body>
+</html>
